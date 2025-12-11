@@ -5,11 +5,11 @@ const Containor = () => {
       <div className="part1">
         <h1>Web Development</h1>
         <p>Lorem ipsum dolor sit amet consectetur.</p>
-        <div>
-            <span>Landing Page</span>
-            <span>Website</span>
-            <span>Web page</span>
-        </div>
+        <span>
+            <button>Landing Page</button>
+            <button>Website</button>
+            <button>Web page</button>
+        </span>
       </div>
 
       <div className="part2">
