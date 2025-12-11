@@ -1,9 +1,10 @@
+import Containor from "./Components/Containor"
 
 const App = () => {
   return (
-    <div>
-      <div id="id">Hello World</div>
-    </div>
+    <>
+    <Containor />
+    </>
   )
 }
 
