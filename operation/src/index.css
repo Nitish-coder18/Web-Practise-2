@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.p1 {
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+}
+
+.p2 {
+    height: 100vh;
+    width: 100vw;
+    background-color: green;
+}
+
+.p3 {
+    height: 100vh;
+    width: 100vw;
+    background-color: blue;
+}
