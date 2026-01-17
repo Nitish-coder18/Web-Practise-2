@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 const App = () => {
 
   const [Num, setNum] = useState('')
-  const [Submit, setSubmit] = useState(second)
+  const [Submit, setSubmit] = useState('')
 
   const SubmitEvent = (e) => {
     e.preventDefault()
