@@ -1,2 +1,5 @@
-const Name = 'NitishDwivedi'
-console.log(Name.split("").reverse().join(""))
+let fruit = ['apple', 'banana', 'orange', 'Mango', 'Litchi', 'Pomegranate', 'Strawberry', 'Kiwi']
+
+for (i = 0; i<= 7; i++) {
+    console.log(fruit[i])
+}
