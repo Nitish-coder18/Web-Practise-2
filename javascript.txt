@@ -1,0 +1,41 @@
+
+
+(CLASS - 1)
+
+(history of java script)
+- mocha -> livescript -> javaScript (naming).
+- created by brendan Eich (1995) while working on Netscape communication Corporation.
+- it is an interpreted language means it is executed line-by-line.
+
+
+(definition)
+- javaScript is a high-level dynamic programming language commonly used for creating interactive effects within web browsers.
+- it alter pages without reloading.
+- fetch and send info to the server.
+- it is one of the most popular programming languages in the world, consistently ranking at the top in surveys and job listings.
+
+
+(application of java script)
+- HTML - what do you want on your website?
+- CSS - how do you want it to look.?
+- JS - what do you want it to do?
+
+- React.js - a library of building ui, maintained by facebook.
+- Angular.js - a platform for building mobile and desktop web applications, maintained by google..
+- vue.js - a progressive framework for building ui.
+
+- node.js - allow javaScript to run to the server, used for buliding scalable scalable network applications.
+- express.js - a minimal and flexible Node.js web application framework..
+- mobile application - react native, Ionic, NativeScript..
+- desktop application - electron, NW.js..
+- cameras and speakers - Three.js, WEBRTC, Howler.js..
+
+
+(Runtime Environment)
+- Google V8 (chrome)
+- Spider Monkey (Firefox)
+- chakra (edge)
+- javaScript core (safari)
+
+(JS v/s Ecma script)
+ES is the standard specification developed by ECMA International that defines the core features, syntax, and functionalities of javaScript and similar scripting languages.
